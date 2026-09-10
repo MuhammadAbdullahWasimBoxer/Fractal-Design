@@ -43,6 +43,12 @@ plot_fern(pts)
 
 ![Barnsley Fern](barnsley_fern_fractal.png)
 
+## T-Shirt Design
+
+The fractal was used as the basis for a minimalist t-shirt design (front pocket + back print).
+
+![Barnsley Fern T-Shirt Design](barnsely_fern_fractal_shirt_design.png)
+
 ## Author
 
-Muhammad Abdullah Wasim — CMS: 571332
+Muhammad Abdullah — CMS: 553410
