@@ -41,7 +41,7 @@ plot_fern(pts)
 
 ## Output
 
-![Barnsley Fern](barnsley_fern.png)
+![Barnsley Fern](barnsley_fern_fractal.png)
 
 ## Author
 
